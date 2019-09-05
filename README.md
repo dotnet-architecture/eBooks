@@ -1,2 +1,2 @@
 # eBooks
-.NET Architecture e-Books download formats
+This is a placeholder repo for all eBooks hosted on dot.net/architecture
