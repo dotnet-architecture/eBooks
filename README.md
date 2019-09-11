@@ -1,6 +1,6 @@
 # .NET Architecture Guides
 
-This repo contains all current and archived releases for e-Books hosted on the [.NET Architecture Guides site](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
+This repo contains all current and archived releases for e-Books hosted on the [.NET Architecture Guides site](https://dotnet.microsoft.com/learn/dotnet/architecture-guides).
 
 ## Current releases
 
@@ -9,7 +9,7 @@ This repo contains all current and archived releases for e-Books hosted on the [
 ### Microservices
 
 - **.NET Microservices: Architecture for Containerized .NET Applications (v2.2.1)** \
-  | [PDF download](current/microservices/NET-Microservices-Architecture-for-Containerized-NET-Applications-(Microsoft-eBook).pdf) | [View on the web](https://docs.microsoft.com/dotnet/architecture/microservices/index) | MOBI download | EPUB download | \
+  | [PDF download](current/microservices/NET-Microservices-Architecture-for-Containerized-NET-Applications-(Microsoft-eBook).pdf) | [View on the web](https://docs.microsoft.com/dotnet/architecture/microservices/index) | MOBI download | EPUB download |
   - Spanish translation (v2.0.5) \
     | [PDF download](current/microservices/es/Microservicios-NET-Arquitectura-para-aplicaciones-NET-Contenerizadas-(Microsoft-eBook)-es-ES.pdf) | MOBI download | EPUB download |
   - Chinese translation (v.2.0.1) \
