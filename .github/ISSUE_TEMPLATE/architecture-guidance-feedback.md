@@ -18,9 +18,3 @@ A clear and concise description of the chapters and sections you like in this bo
 
 **Additional context**
 Add any other context or screenshots about your feedback.
-
-**Have you submitted a PR on the [docs repo](https://github.com/dotnet/docs/tree/master/docs/architecture) with your changes?**
-If yes, link them here
-
-**The book is currently available for online read and PDF downloads. What other formats do you like to see ?**
-e.g. .epub/.mobi
