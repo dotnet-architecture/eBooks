@@ -10,6 +10,6 @@ Go to the [.NET Architecture Guides site](https://dotnet.microsoft.com/learn/dot
 
 You can get any archived release by [exploring the archives folder](archives).
 
-## Submit Feedback 
+## Submit Feedback
 
 Please use [issues](https://github.com/dotnet-architecture/eBooks/issues/new/choose) to submit the book feedback.
