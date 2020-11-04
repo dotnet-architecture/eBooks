@@ -3,7 +3,7 @@ name: Architecture Guidance Feedback
 about: Submit your feedback for the e-books.
 title: "[Book Feedback]"
 labels: "feedback \U0001F50A"
-assignees: ''
+assignees: ''Juan felix Pen 
 
 ---
 
